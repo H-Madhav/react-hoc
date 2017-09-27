@@ -11,7 +11,7 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 > git clone https://github.com/madhav1993/react-hoc.git
-> cd ReduxSimpleStarter
+> cd react-hoc
 > npm install
 > npm start
 ```
