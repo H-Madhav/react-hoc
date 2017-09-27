@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Higher-Order Components - React
 
 Interested in?
 
